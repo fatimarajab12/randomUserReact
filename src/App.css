@@ -1,0 +1,15 @@
+
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #eeeff0;
+  
+  
+}
+h1{
+  color: #4ca4db;
+}
